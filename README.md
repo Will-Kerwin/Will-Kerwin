@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Lancashire Fire and Rescue Service<br>👯 I’m looking to collaborate on any projects as I am passionate about open source<br>🌱 I’m currently studing for the Azure Expert Exams<br>⚡ Fun fact I am also a GVC Qualified Drone Pilot in the UK
+🔭 I’m currently working at Lancashire Fire and Rescue Service<br>👯 I’m looking to collaborate on any projects as I am passionate about open source<br>🌱 I’m currently studing for the Azure Expert Exam<br>⚡ Fun fact I am also a GVC Qualified Drone Pilot in the UK
 
 
 ## 🌐 Socials:
